@@ -1,0 +1,418 @@
+[
+  {
+    "playerID": "1132779921920508004",
+    "money": 657.1432366018125,
+    "debt": 16266.151000000005,
+    "hunger": 40,
+    "thirst": 0,
+    "job": ""
+  },
+  {
+    "playerID": "1132788307949011034",
+    "money": 8715.717822747247,
+    "debt": 16105.100000000008,
+    "hunger": 66,
+    "thirst": 63,
+    "job": ""
+  },
+  {
+    "playerID": "1118303338581196891",
+    "money": 480.7463039750837,
+    "debt": 16105.100000000008,
+    "hunger": 62,
+    "thirst": 48,
+    "job": ""
+  },
+  {
+    "playerID": "395927199036866562",
+    "money": 0.4035287913881689,
+    "debt": 0,
+    "hunger": 9,
+    "thirst": 12,
+    "job": "Entrepreneur"
+  },
+  {
+    "playerID": "347422931741310978",
+    "money": 3181.8939449081677,
+    "debt": 0,
+    "hunger": 64,
+    "thirst": 16,
+    "job": "Entrepreneur"
+  },
+  {
+    "playerID": "698937501280370811",
+    "money": 14656.685253480402,
+    "debt": 0,
+    "hunger": 72,
+    "thirst": 24,
+    "job": "Farmer"
+  },
+  {
+    "playerID": "813019804113829899",
+    "money": 1007.8109014231142,
+    "debt": 990.0000000000001,
+    "hunger": 64,
+    "thirst": 100,
+    "job": ""
+  },
+  {
+    "playerID": "739925671475806299",
+    "money": 500,
+    "debt": 4500,
+    "hunger": 39,
+    "thirst": 57,
+    "job": "Worker"
+  },
+  {
+    "playerID": "495741249622376469",
+    "money": 100,
+    "debt": 0,
+    "hunger": 100,
+    "thirst": 100,
+    "job": ""
+  },
+  {
+    "playerID": "676471241732915269",
+    "money": 100,
+    "debt": 0,
+    "hunger": 100,
+    "thirst": 100,
+    "job": ""
+  },
+  {
+    "playerID": "886615498802999306",
+    "money": 100,
+    "debt": 0,
+    "hunger": 100,
+    "thirst": 100,
+    "job": ""
+  },
+  {
+    "playerID": "774680660949860362",
+    "money": 100,
+    "debt": 0,
+    "hunger": 100,
+    "thirst": 100,
+    "job": "Miner"
+  },
+  {
+    "playerID": "825302580007665664",
+    "money": 327.45728511515836,
+    "debt": 0,
+    "hunger": 64,
+    "thirst": 49,
+    "job": "Entrepreneur"
+  },
+  {
+    "playerID": "488285513514614794",
+    "money": 60.2605333957153,
+    "debt": 0,
+    "hunger": 100,
+    "thirst": 100,
+    "job": ""
+  },
+  {
+    "playerID": "854107895989010443",
+    "money": 129.58857456385667,
+    "debt": 0,
+    "hunger": 68,
+    "thirst": 59,
+    "job": ""
+  },
+  {
+    "playerID": "1133061082018230392",
+    "money": 8613.60626850836,
+    "debt": 16105.100000000008,
+    "hunger": 81,
+    "thirst": 64,
+    "job": ""
+  },
+  {
+    "playerID": "672815457560035352",
+    "money": 92.9967270602489,
+    "debt": 0,
+    "hunger": 74,
+    "thirst": 52,
+    "job": ""
+  },
+  {
+    "playerID": "360980415856640001",
+    "money": 9994.815225373033,
+    "debt": 11000,
+    "hunger": 9,
+    "thirst": 77,
+    "job": "Entrepreneur"
+  },
+  {
+    "playerID": "980183816108920902",
+    "money": 2.883052185044363,
+    "debt": 0,
+    "hunger": 93,
+    "thirst": 12,
+    "job": "Worker"
+  },
+  {
+    "playerID": "934555812314116116",
+    "money": 209.61696564408712,
+    "debt": 0,
+    "hunger": 0,
+    "thirst": 28,
+    "job": "Worker"
+  },
+  {
+    "playerID": "1133726472700448892",
+    "money": 114.54854744513928,
+    "debt": 0,
+    "hunger": 93,
+    "thirst": 0,
+    "job": "Worker"
+  },
+  {
+    "playerID": "1135538620330156033",
+    "money": 224.54899465100394,
+    "debt": 0,
+    "hunger": 71,
+    "thirst": 25,
+    "job": ""
+  },
+  {
+    "playerID": "1135541257129689248",
+    "money": 0.5352715047483798,
+    "debt": 188100,
+    "hunger": 93,
+    "thirst": 10,
+    "job": "Entrepreneur"
+  },
+  {
+    "playerID": "1135541598340534333",
+    "money": 9754.908932525226,
+    "debt": 11000,
+    "hunger": 77,
+    "thirst": 25,
+    "job": "Worker"
+  },
+  {
+    "playerID": "1135546514798809250",
+    "money": 9959.185252695455,
+    "debt": 11000,
+    "hunger": 29,
+    "thirst": 51,
+    "job": "Worker"
+  },
+  {
+    "playerID": "395997025134575616",
+    "money": 93984.32874462714,
+    "debt": 103620,
+    "hunger": 65,
+    "thirst": 54,
+    "job": "Special Job: Petroleum"
+  },
+  {
+    "playerID": "1132779921920508004",
+    "money": 657.1432366018125,
+    "debt": 16266.151000000005,
+    "hunger": 40,
+    "thirst": 0,
+    "job": ""
+  },
+  {
+    "playerID": "1132788307949011034",
+    "money": 8715.717822747247,
+    "debt": 16105.100000000008,
+    "hunger": 66,
+    "thirst": 63,
+    "job": ""
+  },
+  {
+    "playerID": "1118303338581196891",
+    "money": 480.7463039750837,
+    "debt": 16105.100000000008,
+    "hunger": 62,
+    "thirst": 48,
+    "job": ""
+  },
+  {
+    "playerID": "395927199036866562",
+    "money": 0.4035287913881689,
+    "debt": 0,
+    "hunger": 9,
+    "thirst": 12,
+    "job": "Entrepreneur"
+  },
+  {
+    "playerID": "347422931741310978",
+    "money": 3181.8939449081677,
+    "debt": 0,
+    "hunger": 85,
+    "thirst": 47,
+    "job": "Entrepreneur"
+  },
+  {
+    "playerID": "698937501280370811",
+    "money": 14656.685253480402,
+    "debt": 0,
+    "hunger": 72,
+    "thirst": 24,
+    "job": "Farmer"
+  },
+  {
+    "playerID": "813019804113829899",
+    "money": 1007.8109014231142,
+    "debt": 990.0000000000001,
+    "hunger": 64,
+    "thirst": 100,
+    "job": ""
+  },
+  {
+    "playerID": "739925671475806299",
+    "money": 40.398834116175436,
+    "debt": 1500,
+    "hunger": 31,
+    "thirst": 13,
+    "job": "Farmer"
+  },
+  {
+    "playerID": "495741249622376469",
+    "money": 100,
+    "debt": 0,
+    "hunger": 100,
+    "thirst": 100,
+    "job": ""
+  },
+  {
+    "playerID": "676471241732915269",
+    "money": 100,
+    "debt": 0,
+    "hunger": 100,
+    "thirst": 100,
+    "job": ""
+  },
+  {
+    "playerID": "886615498802999306",
+    "money": 100,
+    "debt": 0,
+    "hunger": 100,
+    "thirst": 100,
+    "job": ""
+  },
+  {
+    "playerID": "774680660949860362",
+    "money": 100,
+    "debt": 0,
+    "hunger": 100,
+    "thirst": 100,
+    "job": "Miner"
+  },
+  {
+    "playerID": "825302580007665664",
+    "money": 1347.810695825071,
+    "debt": 0,
+    "hunger": 5,
+    "thirst": 11,
+    "job": ""
+  },
+  {
+    "playerID": "488285513514614794",
+    "money": 60.2605333957153,
+    "debt": 0,
+    "hunger": 100,
+    "thirst": 100,
+    "job": ""
+  },
+  {
+    "playerID": "854107895989010443",
+    "money": 129.58857456385667,
+    "debt": 0,
+    "hunger": 68,
+    "thirst": 59,
+    "job": ""
+  },
+  {
+    "playerID": "1133061082018230392",
+    "money": 8613.60626850836,
+    "debt": 16105.100000000008,
+    "hunger": 81,
+    "thirst": 64,
+    "job": ""
+  },
+  {
+    "playerID": "672815457560035352",
+    "money": 92.9967270602489,
+    "debt": 0,
+    "hunger": 74,
+    "thirst": 52,
+    "job": ""
+  },
+  {
+    "playerID": "360980415856640001",
+    "money": 9994.815225373033,
+    "debt": 11000,
+    "hunger": 9,
+    "thirst": 77,
+    "job": "Entrepreneur"
+  },
+  {
+    "playerID": "980183816108920902",
+    "money": 2.883052185044363,
+    "debt": 0,
+    "hunger": 93,
+    "thirst": 12,
+    "job": "Worker"
+  },
+  {
+    "playerID": "934555812314116116",
+    "money": 209.61696564408712,
+    "debt": 0,
+    "hunger": 0,
+    "thirst": 28,
+    "job": "Worker"
+  },
+  {
+    "playerID": "1133726472700448892",
+    "money": 118.80061898701948,
+    "debt": 0,
+    "hunger": 51,
+    "thirst": 11,
+    "job": "Worker"
+  },
+  {
+    "playerID": "1135538620330156033",
+    "money": 224.54899465100394,
+    "debt": 0,
+    "hunger": 71,
+    "thirst": 25,
+    "job": ""
+  },
+  {
+    "playerID": "1135541257129689248",
+    "money": 0.5352715047483798,
+    "debt": 188100,
+    "hunger": 93,
+    "thirst": 10,
+    "job": "Entrepreneur"
+  },
+  {
+    "playerID": "1135541598340534333",
+    "money": 9823.824224934984,
+    "debt": 11000,
+    "hunger": 0,
+    "thirst": 54,
+    "job": "Worker"
+  },
+  {
+    "playerID": "1135546514798809250",
+    "money": 9959.185252595455,
+    "debt": 11000,
+    "hunger": 44,
+    "thirst": 64,
+    "job": "Worker"
+  },
+  {
+    "playerID": "395997025134575616",
+    "money": 93984.32874462714,
+    "debt": 103620,
+    "hunger": 65,
+    "thirst": 54,
+    "job": "Special Job: Petroleum"
+  }
+]

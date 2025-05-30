@@ -1,0 +1,410 @@
+[
+  {
+    "itemTag": "Ammunition",
+    "price": 350,
+    "stockpile": 14,
+    "producible": 1,
+    "ingredients": "Iron:1,Minerals:1,Explosive:1",
+    "worksteps": 1
+  },
+  {
+    "itemTag": "Artillery",
+    "price": 3200,
+    "stockpile": 1,
+    "producible": 1,
+    "ingredients": "Explosive:4,Iron:4,Ammunition:5,Mineral:3",
+    "worksteps": 7
+  },
+  {
+    "itemTag": "Car",
+    "price": 850,
+    "stockpile": 5,
+    "producible": 1,
+    "ingredients": "Rubber:2,Fuel:2,Minerals:2,Iron:1,Tool:1,Engine:1",
+    "worksteps": 6
+  },
+  {
+    "itemTag": "Clothes",
+    "price": 100,
+    "stockpile": 50,
+    "producible": 1,
+    "ingredients": "Fabric:2",
+    "worksteps": 1
+  },
+  {
+    "itemTag": "Coal",
+    "price": 15,
+    "stockpile": 333,
+    "producible": 0,
+    "ingredients": "",
+    "worksteps": 0
+  },
+  {
+    "itemTag": "Computer",
+    "price": 680,
+    "stockpile": 11,
+    "producible": 1,
+    "ingredients": "Electronics:3,Electricity:1,Iron:2,Minerals:5,Tool:1",
+    "worksteps": 4
+  },
+  {
+    "itemTag": "Electricity",
+    "price": 100,
+    "stockpile": 0,
+    "producible": 1,
+    "ingredients": "Minerals:2,Tool:1,Iron:1",
+    "worksteps": 1
+  },
+  {
+    "itemTag": "Electronics",
+    "price": 130,
+    "stockpile": 0,
+    "producible": 1,
+    "ingredients": "Minerals:4,Tool:1,Iron:1",
+    "worksteps": 1
+  },
+  {
+    "itemTag": "Engine",
+    "price": 500,
+    "stockpile": 14,
+    "producible": 1,
+    "ingredients": "Minerals:2,Iron:3,Explosive:1,Natural Gas:2,Coal:4",
+    "worksteps": 3
+  },
+  {
+    "itemTag": "Explosive",
+    "price": 300,
+    "stockpile": 25,
+    "producible": 1,
+    "ingredients": "Fuel:2,Natural Gas:4,Tool:1",
+    "worksteps": 2
+  },
+  {
+    "itemTag": "Fabric",
+    "price": 40,
+    "stockpile": 250,
+    "producible": 1,
+    "ingredients": "Leather:1,Wool:1",
+    "worksteps": 1
+  },
+  {
+    "itemTag": "Fertilizer",
+    "price": 60,
+    "stockpile": 0,
+    "producible": 1,
+    "ingredients": "Iron:1,Water:2",
+    "worksteps": 1
+  },
+  {
+    "itemTag": "Fine Art",
+    "price": 530,
+    "stockpile": 14,
+    "producible": 1,
+    "ingredients": "Water:2,Paper:4,Silk:4",
+    "worksteps": 1
+  },
+  {
+    "itemTag": "Fish",
+    "price": 7.5,
+    "stockpile": 666,
+    "producible": 0,
+    "ingredients": "",
+    "worksteps": 0
+  },
+  {
+    "itemTag": "Fuel",
+    "price": 80,
+    "stockpile": 83,
+    "producible": 1,
+    "ingredients": "Petroleum:2,Coal:2",
+    "worksteps": 1
+  },
+  {
+    "itemTag": "Furniture",
+    "price": 90,
+    "stockpile": 100,
+    "producible": 1,
+    "ingredients": "Wood:4,Tool:1",
+    "worksteps": 1
+  },
+  {
+    "itemTag": "Gas Pipeline",
+    "price": 320,
+    "stockpile": 0,
+    "producible": 1,
+    "ingredients": "Phosphorus:2,Iron:2,Electronics:1,Tool:1",
+    "worksteps": 2
+  },
+  {
+    "itemTag": "Glass",
+    "price": 120,
+    "stockpile": 50,
+    "producible": 1,
+    "ingredients": "Water:1,Coal:2,Minerals:1,Tool:1",
+    "worksteps": 1
+  },
+  {
+    "itemTag": "Grain",
+    "price": 10,
+    "stockpile": 500,
+    "producible": 0,
+    "ingredients": "",
+    "worksteps": 0
+  },
+  {
+    "itemTag": "Grocery",
+    "price": 70,
+    "stockpile": 100,
+    "producible": 1,
+    "ingredients": "Grain:5",
+    "worksteps": 1
+  },
+  {
+    "itemTag": "Gun",
+    "price": 450,
+    "stockpile": 17,
+    "producible": 1,
+    "ingredients": "Minerals:1,Iron:1,Wood:1,Ammunition:1,Tool:1",
+    "worksteps": 2
+  },
+  {
+    "itemTag": "Hardwood",
+    "price": 50,
+    "stockpile": 166,
+    "producible": 1,
+    "ingredients": "Wood:4",
+    "worksteps": 1
+  },
+  {
+    "itemTag": "Housing",
+    "price": 10000,
+    "stockpile": 0,
+    "producible": 1,
+    "ingredients": "Furniture:5,Glass:3,Wood:10,Iron:3,Internet Cable:3,Internet Server:1,Tool:3",
+    "worksteps": 9
+  },
+  {
+    "itemTag": "Internet Cable",
+    "price": 470,
+    "stockpile": 0,
+    "producible": 1,
+    "ingredients": "Minerals:2,Tool:1,Silk:3,Electricity:2",
+    "worksteps": 1
+  },
+  {
+    "itemTag": "Internet Server",
+    "price": 7000,
+    "stockpile": 0,
+    "producible": 1,
+    "ingredients": "Computer:5,Electricity:5,Electronics:2,Tool:1,Internet Cable:5",
+    "worksteps": 5
+  },
+  {
+    "itemTag": "Iron",
+    "price": 10,
+    "stockpile": 500,
+    "producible": 0,
+    "ingredients": "",
+    "worksteps": 0
+  },
+  {
+    "itemTag": "Leather",
+    "price": 7.5,
+    "stockpile": 666,
+    "producible": 0,
+    "ingredients": "",
+    "worksteps": 0
+  },
+  {
+    "itemTag": "Luxury clothes",
+    "price": 430,
+    "stockpile": 20,
+    "producible": 1,
+    "ingredients": "Clothes:1,Silk:5",
+    "worksteps": 2
+  },
+  {
+    "itemTag": "Luxury furniture",
+    "price": 390,
+    "stockpile": 20,
+    "producible": 1,
+    "ingredients": "Furniture:1,Minerals:2,Silk:4",
+    "worksteps": 2
+  },
+  {
+    "itemTag": "Minerals",
+    "price": 15,
+    "stockpile": 333,
+    "producible": 0,
+    "ingredients": "",
+    "worksteps": 0
+  },
+  {
+    "itemTag": "Mining Machine",
+    "price": 1700,
+    "stockpile": 0,
+    "producible": 1,
+    "ingredients": "Iron:10,Phosphorus:8,Rubber:5,Minerals:5,Electronics:5,Electricity:4,Coal:10,Tool:3",
+    "worksteps": 9
+  },
+  {
+    "itemTag": "Natural Gas",
+    "price": 15,
+    "stockpile": 333,
+    "producible": 0,
+    "ingredients": "",
+    "worksteps": 0
+  },
+  {
+    "itemTag": "Oil Drilling Machine",
+    "price": 230,
+    "stockpile": 0,
+    "producible": 1,
+    "ingredients": "Phosphorus:2,Iron:2,Electronics:1,Tool:1",
+    "worksteps": 2
+  },
+  {
+    "itemTag": "Paper",
+    "price": 60,
+    "stockpile": 125,
+    "producible": 1,
+    "ingredients": "Wood:1,Water:2",
+    "worksteps": 1
+  },
+  {
+    "itemTag": "Petroleum",
+    "price": 15,
+    "stockpile": 333,
+    "producible": 0,
+    "ingredients": "",
+    "worksteps": 0
+  },
+  {
+    "itemTag": "Phosphorus",
+    "price": 6,
+    "stockpile": 833,
+    "producible": 0,
+    "ingredients": "",
+    "worksteps": 0
+  },
+  {
+    "itemTag": "Pickaxe",
+    "price": 70,
+    "stockpile": 0,
+    "producible": 1,
+    "ingredients": "Iron:1,Tool:1",
+    "worksteps": 1
+  },
+  {
+    "itemTag": "Plane",
+    "price": 2000,
+    "stockpile": 4,
+    "producible": 1,
+    "ingredients": "Minerals:3,Fuel:3,Rubber:4,Engine:2,Iron:4,Tool:2",
+    "worksteps": 11
+  },
+  {
+    "itemTag": "Rubber",
+    "price": 15,
+    "stockpile": 333,
+    "producible": 0,
+    "ingredients": "",
+    "worksteps": 0
+  },
+  {
+    "itemTag": "Ship",
+    "price": 15000,
+    "stockpile": 0,
+    "producible": 1,
+    "ingredients": "Fuel:10,Phosphorus:12,Wood:8,Iron:20,Explosive:5,Engine:4,Ammunition:25,Rubber:8,Tool:4",
+    "worksteps": 18
+  },
+  {
+    "itemTag": "Silk",
+    "price": 60,
+    "stockpile": 125,
+    "producible": 1,
+    "ingredients": "Wool:4",
+    "worksteps": 1
+  },
+  {
+    "itemTag": "Tank",
+    "price": 4000,
+    "stockpile": 2,
+    "producible": 1,
+    "ingredients": "Engine:1,Rubber:5,Fuel:4,Minerals:3,Iron:10,Ammunition:5,Explosive:2,Tool:2",
+    "worksteps": 10
+  },
+  {
+    "itemTag": "Tool",
+    "price": 40,
+    "stockpile": 250,
+    "producible": 1,
+    "ingredients": "Iron:1,Wood:1",
+    "worksteps": 1
+  },
+  {
+    "itemTag": "Tractor",
+    "price": 650,
+    "stockpile": 0,
+    "producible": 1,
+    "ingredients": "Rubber:3,Iron:2,Engine:1",
+    "worksteps": 7
+  },
+  {
+    "itemTag": "Truck",
+    "price": 900,
+    "stockpile": 8,
+    "producible": 1,
+    "ingredients": "Fuel:2,Rubber:3,Minerals:2,Iron:2,Tool:1,Engine:1",
+    "worksteps": 7
+  },
+  {
+    "itemTag": "Water",
+    "price": 15,
+    "stockpile": 333,
+    "producible": 0,
+    "ingredients": "",
+    "worksteps": 1
+  },
+  {
+    "itemTag": "Water Cleaning",
+    "price": 150,
+    "stockpile": 33,
+    "producible": 1,
+    "ingredients": "Phosphorus:2,Iron:2,Silk:1,Tool:1",
+    "worksteps": 1
+  },
+  {
+    "itemTag": "Wood",
+    "price": 7.5,
+    "stockpile": 666,
+    "producible": 0,
+    "ingredients": "",
+    "worksteps": 0
+  },
+  {
+    "itemTag": "Wool",
+    "price": 10,
+    "stockpile": 500,
+    "producible": 0,
+    "ingredients": "",
+    "worksteps": 0
+  },
+  {
+    "itemTag": "Chainsaw",
+    "price": 90,
+    "stockpile": 100,
+    "producible": 1,
+    "ingredients": "Iron:3,Tool:1",
+    "worksteps": 1
+  },
+  {
+    "itemTag": "Axe",
+    "price": 70,
+    "stockpile": 166,
+    "producible": 1,
+    "ingredients": "Iron:1,Tool:1",
+    "worksteps": 1
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "entrepreneurID": "395927199036866562",
+    "workers": [
+      "1135541598340534333",
+      "1135546514798809250"
+    ],
+    "producibleItems": [
+      "Plane",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "capital": 6003.636916544014,
+    "wage": 1e-7,
+    "name": "Luftwaffle Air Department",
+    "paymentOption": "work",
+    "joinRquests": [],
+    "worksteps": [
+      8,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "entrepreneurID": "825302580007665664",
+    "workers": [
+      "739925671475806299"
+    ],
+    "producibleItems": [
+      "Gun",
+      "Explosive",
+      "Ammunition",
+      "",
+      ""
+    ],
+    "capital": 583.300111723531,
+    "wage": 20,
+    "name": "The Union of Worker’s Syndicates <:uws:1135566463143522375>",
+    "paymentOption": "work",
+    "joinRquests": [],
+    "worksteps": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "entrepreneurID": "347422931741310978",
+    "workers": [
+      "934555812314116116",
+      "1133726472700448892"
+    ],
+    "producibleItems": [
+      "Gun",
+      "Grocery",
+      "",
+      "",
+      ""
+    ],
+    "capital": 1250.9947217947843,
+    "wage": 10,
+    "name": "Anti-company Militia army",
+    "paymentOption": "work",
+    "joinRquests": [],
+    "worksteps": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "entrepreneurID": "360980415856640001",
+    "workers": [
+      "980183816108920902"
+    ],
+    "producibleItems": [
+      "Tool",
+      "Oil Drilling Machine",
+      "Ammunition",
+      "Fuel",
+      "Explosive"
+    ],
+    "capital": 687.8796693164157,
+    "wage": 50,
+    "name": "Black Mesa Industries",
+    "paymentOption": "work",
+    "joinRquests": [],
+    "worksteps": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "entrepreneurID": "1135541257129689248",
+    "workers": [],
+    "producibleItems": [
+      "Grocery",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "capital": 948.7248524909082,
+    "wage": 170064,
+    "name": "money glitch op",
+    "paymentOption": "work",
+    "joinRquests": [],
+    "worksteps": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]

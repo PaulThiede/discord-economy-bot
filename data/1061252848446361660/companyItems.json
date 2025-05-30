@@ -1,0 +1,82 @@
+[
+  {
+    "entrepreneurID": "360980415856640001",
+    "itemTag": "Water",
+    "amount": 18
+  },
+  {
+    "entrepreneurID": "1135541257129689248",
+    "itemTag": "Grocery",
+    "amount": 1
+  },
+  {
+    "entrepreneurID": "347422931741310978",
+    "itemTag": "Grocery",
+    "amount": 8
+  },
+  {
+    "entrepreneurID": "360980415856640001",
+    "itemTag": "Water",
+    "amount": 18
+  },
+  {
+    "entrepreneurID": "1135541257129689248",
+    "itemTag": "Grocery",
+    "amount": 1
+  },
+  {
+    "entrepreneurID": "395927199036866562",
+    "itemTag": "Minerals",
+    "amount": 3
+  },
+  {
+    "entrepreneurID": "395927199036866562",
+    "itemTag": "Fuel",
+    "amount": 3
+  },
+  {
+    "entrepreneurID": "395927199036866562",
+    "itemTag": "Rubber",
+    "amount": 4
+  },
+  {
+    "entrepreneurID": "395927199036866562",
+    "itemTag": "Engine",
+    "amount": 2
+  },
+  {
+    "entrepreneurID": "395927199036866562",
+    "itemTag": "Iron",
+    "amount": 4
+  },
+  {
+    "entrepreneurID": "395927199036866562",
+    "itemTag": "Tool",
+    "amount": 2
+  },
+  {
+    "entrepreneurID": "825302580007665664",
+    "itemTag": "Minerals",
+    "amount": 1
+  },
+  {
+    "entrepreneurID": "825302580007665664",
+    "itemTag": "Iron",
+    "amount": 1
+  },
+  {
+    "entrepreneurID": "825302580007665664",
+    "itemTag": "Wood",
+    "amount": 1
+  },
+  {
+    "entrepreneurID": "825302580007665664",
+    "itemTag": "Ammunition",
+    "amount": 1
+  },
+  {
+    "entrepreneurID": "825302580007665664",
+    "itemTag": "Tool",
+    "amount": 1
+  }
+]
